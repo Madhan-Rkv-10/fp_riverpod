@@ -1,0 +1,4 @@
+#Wed Aug 02 22:10:14 IST 2023
+base.0=/home/agira/Downloads/fpdart_examples/samplefp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
